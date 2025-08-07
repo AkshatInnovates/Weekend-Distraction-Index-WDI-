@@ -1,0 +1,33 @@
+City,Weekend_Date,MoviesReleased,CricketMatch,Weather,Festival,TrendingTopics,BuzzScore,MondayProductivity
+Mumbai,05-07-2025,2,0,clear,0,6,54,Moderate
+Delhi,05-07-2025,2,0,clear,0,6,54,Moderate
+Bangalore,05-07-2025,2,0,clear,0,6,54,Moderate
+Kolkata,05-07-2025,2,0,clear,0,6,54,Moderate
+Mumbai,12-07-2025,0,1,clear,0,7,58,Low
+Delhi,12-07-2025,0,1,clear,0,7,58,Low
+Bangalore,12-07-2025,0,1,clear,0,7,58,Low
+Kolkata,12-07-2025,0,1,clear,0,7,58,Low
+Mumbai,19-07-2025,4,1,Rainy,0,4,36,High
+Delhi,19-07-2025,4,1,Cloudy,0,4,36,High
+Bangalore,19-07-2025,4,1,Rainy,0,4,36,High
+Kolkata,19-07-2025,4,1,Rainy,0,4,36,High
+Mumbai,26-07-2025,2,1,Rainy,0,8,52,Moderate
+Delhi,26-07-2025,2,1,Rainy,0,8,52,Moderate
+Bangalore,26-07-2025,2,1,Rainy,0,8,52,Moderate
+Kolkata,26-07-2025,2,1,Rainy,0,8,52,Moderate
+Mumbai,02-08-2025,3,1,Rainy,0,5,40,Moderate
+Delhi,02-08-2025,3,1,Rainy,0,5,40,Moderate
+Bangalore,02-08-2025,3,1,Cloudy,0,5,40,Moderate
+Kolkata,02-08-2025,3,1,Cloudy,0,5,40,Moderate
+Mumbai,09-08-2025,3,1,Rainy,1,7,78,Very Low
+Delhi,09-08-2025,3,1,Rainy,1,7,78,Very Low
+Bangalore,09-08-2025,3,1,Cloudy,1,7,78,Very Low
+Kolkata,09-08-2025,3,1,Rainy,1,7,78,Very Low
+Mumbai,16-08-2025,5,1,Cloudy,1,8,82,Very Low
+Delhi,16-08-2025,5,1,Cloudy,1,8,82,Very Low
+Bangalore,16-08-2025,5,1,Rainy,1,8,82,Very Low
+Kolkata,16-08-2025,5,1,Cloudy,1,8,82,Very Low
+Mumbai,23-08-2025,5,1,Rainy,0,4,36,High
+Delhi,23-08-2025,5,1,Cloudy,0,4,36,High
+Bangalore,23-08-2025,5,1,Cloudy,0,4,36,High
+Kolkata,23-08-2025,5,1,Rainy,0,4,36,High

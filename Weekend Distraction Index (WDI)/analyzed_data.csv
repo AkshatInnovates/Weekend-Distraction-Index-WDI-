@@ -1,0 +1,33 @@
+City,Weekend_Date,MoviesReleased,CricketMatch,Weather,Festival,TrendingTopics,BuzzScore,MondayProductivity,MondayProductivity_Num,TotalEvents
+Mumbai,2025-05-07,2,0,clear,0,6,54,Moderate,3,2
+Delhi,2025-05-07,2,0,clear,0,6,54,Moderate,3,2
+Bangalore,2025-05-07,2,0,clear,0,6,54,Moderate,3,2
+Kolkata,2025-05-07,2,0,clear,0,6,54,Moderate,3,2
+Mumbai,2025-12-07,0,1,clear,0,7,58,Low,2,1
+Delhi,2025-12-07,0,1,clear,0,7,58,Low,2,1
+Bangalore,2025-12-07,0,1,clear,0,7,58,Low,2,1
+Kolkata,2025-12-07,0,1,clear,0,7,58,Low,2,1
+Mumbai,2025-07-19,4,1,Rainy,0,4,36,High,4,5
+Delhi,2025-07-19,4,1,Cloudy,0,4,36,High,4,5
+Bangalore,2025-07-19,4,1,Rainy,0,4,36,High,4,5
+Kolkata,2025-07-19,4,1,Rainy,0,4,36,High,4,5
+Mumbai,2025-07-26,2,1,Rainy,0,8,52,Moderate,3,3
+Delhi,2025-07-26,2,1,Rainy,0,8,52,Moderate,3,3
+Bangalore,2025-07-26,2,1,Rainy,0,8,52,Moderate,3,3
+Kolkata,2025-07-26,2,1,Rainy,0,8,52,Moderate,3,3
+Mumbai,2025-02-08,3,1,Rainy,0,5,40,Moderate,3,4
+Delhi,2025-02-08,3,1,Rainy,0,5,40,Moderate,3,4
+Bangalore,2025-02-08,3,1,Cloudy,0,5,40,Moderate,3,4
+Kolkata,2025-02-08,3,1,Cloudy,0,5,40,Moderate,3,4
+Mumbai,2025-09-08,3,1,Rainy,1,7,78,Very Low,1,5
+Delhi,2025-09-08,3,1,Rainy,1,7,78,Very Low,1,5
+Bangalore,2025-09-08,3,1,Cloudy,1,7,78,Very Low,1,5
+Kolkata,2025-09-08,3,1,Rainy,1,7,78,Very Low,1,5
+Mumbai,2025-08-16,5,1,Cloudy,1,8,82,Very Low,1,7
+Delhi,2025-08-16,5,1,Cloudy,1,8,82,Very Low,1,7
+Bangalore,2025-08-16,5,1,Rainy,1,8,82,Very Low,1,7
+Kolkata,2025-08-16,5,1,Cloudy,1,8,82,Very Low,1,7
+Mumbai,2025-08-23,5,1,Rainy,0,4,36,High,4,6
+Delhi,2025-08-23,5,1,Cloudy,0,4,36,High,4,6
+Bangalore,2025-08-23,5,1,Cloudy,0,4,36,High,4,6
+Kolkata,2025-08-23,5,1,Rainy,0,4,36,High,4,6
