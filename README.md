@@ -1,4 +1,4 @@
-# 📊 Weekend Distraction Effect (WDE) – Data Science Project
+# 📊 Weekend Distraction Index (WDI) – Data Science Project
 
 This project explores how weekend events and external factors (like weather, festivals, movie releases, and cricket matches) influence Monday productivity, using a custom metric called **BuzzScore**.
 
